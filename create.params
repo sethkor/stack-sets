@@ -1,0 +1,16 @@
+--region
+us-east-1
+--master
+sethkor-master
+--slavestack
+slave.yml
+--masterstack
+master.yml
+--role
+OrganizationAccountAccessRole
+--admin
+847073124060
+140448113972
+569036802598
+640513174950
+859786017953

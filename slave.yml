@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: 2010-09-09
 
-Description: Slave Implements AWSCloudFormationStackSetExecutionRole
+Description:  Implements AWSCloudFormationStackSetExecutionRole for Stack Stet Targets
 
 Parameters:
 
